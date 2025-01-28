@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on scalable frontend apps with React. <br>👯 Open to collaborating on UI/UX and open-source projects.<br>🤝 Seeking help with frontend performance optimization & complex API integrations. <br>🌱 Learning micro-frontends, advanced state management, and testing frameworks. <br>💬 Ask me about web accessibility, responsive design, or tech stacks.<br>⚡ Fun fact: I can spot font inconsistencies instantly and love UI/UX challenges! <br>🧑‍🎨 Passionate about creating pixel-perfect designs <br>📈 Exploring tools to enhance developer workflows <br> 🌟 Believer in clean, maintainable code!
+🔭 Currently studying on scalable frontend apps with React. <br>👯 Open to collaborating on UI/UX and open-source projects.<br>🤝 Seeking help with frontend performance optimization & complex API integrations. <br>🌱 Learning micro-frontends, advanced state management, and testing frameworks. <br>💬 Ask me about web accessibility, responsive design, or tech stacks.<br>⚡ Fun fact: I can spot font inconsistencies instantly and love UI/UX challenges! <br>🧑‍🎨 Passionate about creating pixel-perfect designs <br>📈 Exploring tools to enhance developer workflows <br> 🌟 Believer in clean, maintainable code!
 
 
 ## 🌐 Socials:
